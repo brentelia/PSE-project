@@ -14,5 +14,5 @@ The repository is divided into three main parts :
 For more info check the Latex folder which contains a report about all the work done in the project.
 
 ## Credits
-* [SystemC] (https://www.accellera.org/downloads/standards/systemc), the main library used in this project
-* [SystemC AMS] (https://www.accellera.org/community/systemc/about-systemc-ams) the SystemC extension for analog/mixed-signals.
+* [SystemC](https://www.accellera.org/downloads/standards/systemc), the main library used in this project
+* [SystemC AMS](https://www.accellera.org/community/systemc/about-systemc-ams) the SystemC extension for analog/mixed-signals.
